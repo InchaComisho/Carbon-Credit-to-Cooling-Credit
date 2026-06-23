@@ -8,8 +8,9 @@
 
 ## Languages
 
-* [日本語 / Japanese](README_ja.md)
-* [English](README.md)
+- [日本語 / Japanese](README_ja.md)
+- [English](README.md)
+- [العربية / Arabic](README_ar.md)
 
 ---
 

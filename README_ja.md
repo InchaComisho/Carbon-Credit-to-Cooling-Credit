@@ -8,6 +8,14 @@
 
 ---
 
+## Languages / 言語
+
+- [日本語 / Japanese](README_ja.md)
+- [English](README.md)
+- [العربية / Arabic](README_ar.md)
+
+---
+
 ## Abstract / 要旨
 
 This repository proposes a conceptual and institutional transition from offset-based carbon credits to physically measurable Cooling Credits.

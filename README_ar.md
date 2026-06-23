@@ -10,7 +10,7 @@
 
 * [日本語 / Japanese](README_ja.md)
 * [English](README.md)
-* [العربية](README_ar.md)
+* [العربية / Arabic](README_ar.md)
 
 ---
 
