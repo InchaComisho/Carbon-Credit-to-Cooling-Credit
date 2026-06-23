@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="Natural carbon sinks and cooling functions under stress">
+  <rect width="1200" height="760" fill="#f8fafc"/>
+  <text x="50" y="55" font-family="Arial, sans-serif" font-size="32" font-weight="800" fill="#0f172a">Natural Carbon Sinks and Cooling Functions Under Stress</text>
+  <text x="50" y="86" font-family="Arial, sans-serif" font-size="16" fill="#475569">The climate problem is not only human emissions. It is also the weakening of natural carbon sinks and natural cooling functions.</text>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#334155"/>
+    </marker>
+    <style>
+      .box { fill: #ffffff; stroke: #cbd5e1; stroke-width: 1.5; }
+      .red { fill: #fee2e2; stroke: #ef4444; }
+      .green { fill: #dcfce7; stroke: #22c55e; }
+      .blue { fill: #dbeafe; stroke: #3b82f6; }
+      .orange { fill: #ffedd5; stroke: #f97316; }
+      .purple { fill: #ede9fe; stroke: #8b5cf6; }
+      .title { font-family: Arial, sans-serif; font-size: 17px; font-weight: 800; fill: #0f172a; }
+      .txt { font-family: Arial, sans-serif; font-size: 13px; fill: #334155; }
+      .small { font-family: Arial, sans-serif; font-size: 12px; fill: #64748b; }
+    </style>
+  </defs>
+
+  <g transform="translate(50,130)">
+    <rect class="red" x="0" y="0" width="250" height="120" rx="16"/>
+    <text class="title" x="22" y="32">Human CO₂ emissions</text>
+    <text class="txt" x="22" y="58">Fossil fuels, industry, land-use</text>
+    <text class="txt" x="22" y="80">change, transport, incineration</text>
+    <text class="small" x="22" y="105">High annual flow into the system</text>
+  </g>
+
+  <g transform="translate(350,130)">
+    <rect class="orange" x="0" y="0" width="250" height="120" rx="16"/>
+    <text class="title" x="22" y="32">Natural sinks weaken</text>
+    <text class="txt" x="22" y="58">Forests, soils, wetlands, oceans</text>
+    <text class="txt" x="22" y="80">absorb only part of emissions</text>
+    <text class="small" x="22" y="105">Sink strength varies by year and region</text>
+  </g>
+
+  <g transform="translate(650,130)">
+    <rect class="purple" x="0" y="0" width="250" height="120" rx="16"/>
+    <text class="title" x="22" y="32">Residual CO₂ accumulates</text>
+    <text class="txt" x="22" y="58">Emissions not absorbed by land</text>
+    <text class="txt" x="22" y="80">and ocean remain in the atmosphere</text>
+    <text class="small" x="22" y="105">Atmospheric CO₂ stock rises</text>
+  </g>
+
+  <g transform="translate(950,130)">
+    <rect class="red" x="0" y="0" width="200" height="120" rx="16"/>
+    <text class="title" x="22" y="32">Heat accumulates</text>
+    <text class="txt" x="22" y="58">More trapped heat</text>
+    <text class="txt" x="22" y="80">in air, land, cities,</text>
+    <text class="txt" x="22" y="102">and oceans</text>
+  </g>
+
+  <path d="M300 190 H340" stroke="#334155" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M600 190 H640" stroke="#334155" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M900 190 H940" stroke="#334155" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <g transform="translate(70,335)">
+    <rect class="box" x="0" y="0" width="220" height="105" rx="14"/>
+    <text class="title" x="18" y="30">Forest loss</text>
+    <text class="txt" x="18" y="55">Less shade, less biomass,</text>
+    <text class="txt" x="18" y="75">less evapotranspiration</text>
+  </g>
+  <g transform="translate(340,335)">
+    <rect class="box" x="0" y="0" width="220" height="105" rx="14"/>
+    <text class="title" x="18" y="30">Soil degradation</text>
+    <text class="txt" x="18" y="55">Lower humus, microbes,</text>
+    <text class="txt" x="18" y="75">and water retention</text>
+  </g>
+  <g transform="translate(610,335)">
+    <rect class="box" x="0" y="0" width="220" height="105" rx="14"/>
+    <text class="title" x="18" y="30">Drought and wildfire</text>
+    <text class="txt" x="18" y="55">Temporary or regional</text>
+    <text class="txt" x="18" y="75">sink-to-source shifts</text>
+  </g>
+  <g transform="translate(880,335)">
+    <rect class="box" x="0" y="0" width="220" height="105" rx="14"/>
+    <text class="title" x="18" y="30">Ocean heat stress</text>
+    <text class="txt" x="18" y="55">Stratification, oxygen loss,</text>
+    <text class="txt" x="18" y="75">plankton disruption risk</text>
+  </g>
+
+  <path d="M180 320 C230 270 380 262 475 250" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <path d="M450 320 C470 285 480 270 490 250" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <path d="M720 320 C690 285 610 270 510 250" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <path d="M990 320 C870 278 695 260 560 250" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+
+  <g transform="translate(210,545)">
+    <rect class="blue" x="0" y="0" width="330" height="125" rx="18"/>
+    <text class="title" x="24" y="34">Cooling functions decline</text>
+    <text class="txt" x="24" y="62">Water retention, evapotranspiration,</text>
+    <text class="txt" x="24" y="84">cloud/rain feedbacks, and local</text>
+    <text class="txt" x="24" y="106">thermal buffering weaken.</text>
+  </g>
+
+  <g transform="translate(660,545)">
+    <rect class="green" x="0" y="0" width="330" height="125" rx="18"/>
+    <text class="title" x="24" y="34">Cooling Credits response</text>
+    <text class="txt" x="24" y="62">Invest in measurable cooling:</text>
+    <text class="txt" x="24" y="84">soil, forest, water, urban, ocean,</text>
+    <text class="txt" x="24" y="106">and organic-cycle restoration.</text>
+  </g>
+
+  <path d="M1030 250 C1020 500 950 535 850 545" stroke="#334155" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  <path d="M540 607 H650" stroke="#334155" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <text x="50" y="724" font-family="Arial, sans-serif" font-size="14" fill="#475569">Caution: land and ocean sinks still absorb a large share of human CO₂ on average, but their strength can weaken under heat, drought, fire, land degradation, and ocean stress. This diagram shows the risk mechanism, not a claim of permanent global sink collapse.</text>
+</svg>
