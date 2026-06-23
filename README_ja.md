@@ -16,6 +16,16 @@
 
 ---
 
+## 関連図解ページ
+
+- [CO2とカーボンクレジット市場の図解](docs/CO2_AND_CARBON_CREDIT_MARKET_GRAPHS_ja.md)
+
+![カーボンクレジット市場の拡大と大気中CO2濃度上昇の比較](assets/carbon_credit_vs_co2_trends.svg)
+
+![気候と生態系ストレス下の自然吸収源](assets/natural_sinks_under_stress.svg)
+
+---
+
 ## Abstract / 要旨
 
 This repository proposes a conceptual and institutional transition from offset-based carbon credits to physically measurable Cooling Credits.

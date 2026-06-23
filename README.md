@@ -14,6 +14,16 @@
 
 ---
 
+## Related Graph Page
+
+- [CO2 and Carbon Credit Market Graphs](docs/CO2_AND_CARBON_CREDIT_MARKET_GRAPHS.md)
+
+![Carbon credit market growth compared with rising atmospheric CO2](assets/carbon_credit_vs_co2_trends.svg)
+
+![Natural carbon sinks under climate and ecosystem stress](assets/natural_sinks_under_stress.svg)
+
+---
+
 ## Abstract
 
 This repository proposes a conceptual and institutional transition from offset-based carbon credits to physically measurable **Cooling Credits**.
