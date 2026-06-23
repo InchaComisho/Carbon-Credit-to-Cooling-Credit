@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Carbon credit market growth and CO2 trends">
+  <rect width="1200" height="900" fill="#f8fafc"/>
+  <text x="40" y="50" font-family="Arial, sans-serif" font-size="32" font-weight="800" fill="#0f172a">Carbon Credit Growth vs CO₂ Reality</text>
+  <text x="40" y="80" font-family="Arial, sans-serif" font-size="16" fill="#475569">Carbon-pricing business has grown, while atmospheric CO₂ concentration and global annual emissions have not physically declined.</text>
+
+  <g font-family="Arial, sans-serif" font-size="12" fill="#111827">
+    <g transform="translate(40,120)">
+      <rect width="520" height="310" rx="14" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="22" y="32" font-size="20" font-weight="700">Atmospheric CO₂ Concentration</text>
+      <text x="22" y="54" fill="#64748b">Mauna Loa annual mean, ppm</text>
+      <line x1="60" y1="260" x2="480" y2="260" stroke="#111827"/>
+      <line x1="60" y1="70" x2="60" y2="260" stroke="#111827"/>
+      <polyline points="60,251 73,248 137,234 201,213 264,188 328,164 392,132 456,86 480,73" fill="none" stroke="#2563eb" stroke-width="4"/>
+      <text x="60" y="282">1958</text><text x="430" y="282">2024</text>
+      <text x="16" y="258">310</text><text x="16" y="78">430</text>
+      <text x="22" y="300" fill="#64748b">Source: NOAA Global Monitoring Laboratory</text>
+    </g>
+
+    <g transform="translate(640,120)">
+      <rect width="520" height="310" rx="14" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="22" y="32" font-size="20" font-weight="700">Global Annual CO₂ Emissions</text>
+      <text x="22" y="54" fill="#64748b">GtCO₂ per year</text>
+      <line x1="60" y1="260" x2="480" y2="260" stroke="#111827"/>
+      <line x1="60" y1="70" x2="60" y2="260" stroke="#111827"/>
+      <polyline points="60,250 127,213 193,183 260,160 327,144 393,88 440,70 447,67 453,67 460,80 467,70 473,64 480,62" fill="none" stroke="#16a34a" stroke-width="4"/>
+      <text x="60" y="282">1960</text><text x="430" y="282">2023</text>
+      <text x="20" y="258">8</text><text x="20" y="78">39</text>
+      <text x="22" y="300" fill="#64748b">Source: Our World in Data / Global Carbon Project</text>
+    </g>
+
+    <g transform="translate(40,500)">
+      <rect width="520" height="310" rx="14" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="22" y="32" font-size="20" font-weight="700">Global Carbon Pricing Revenue</text>
+      <text x="22" y="54" fill="#64748b">USD billion, annual reported values</text>
+      <line x1="60" y1="260" x2="480" y2="260" stroke="#111827"/>
+      <line x1="60" y1="70" x2="60" y2="260" stroke="#111827"/>
+      <polyline points="60,253 130,227 200,225 270,206 340,132 410,106 480,84" fill="none" stroke="#7c3aed" stroke-width="4"/>
+      <text x="60" y="282">2017</text><text x="430" y="282">2023</text>
+      <text x="16" y="258">30</text><text x="12" y="78">110</text>
+      <text x="22" y="300" fill="#64748b">Source: World Bank State and Trends reports; illustrative series</text>
+    </g>
+
+    <g transform="translate(640,500)">
+      <rect width="520" height="310" rx="14" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="22" y="32" font-size="20" font-weight="700">Revenue Growth vs Emissions</text>
+      <text x="22" y="54" fill="#64748b">Index, 2017 = 100</text>
+      <line x1="60" y1="260" x2="480" y2="260" stroke="#111827"/>
+      <line x1="60" y1="70" x2="60" y2="260" stroke="#111827"/>
+      <polyline points="60,252 130,226 200,224 270,204 340,130 410,104 480,82" fill="none" stroke="#2563eb" stroke-width="4"/>
+      <polyline points="60,252 130,251 200,251 270,256 340,252 410,250 480,250" fill="none" stroke="#f97316" stroke-width="4"/>
+      <rect x="78" y="74" width="260" height="48" rx="8" fill="#ffffff" stroke="#d1d5db"/>
+      <line x1="94" y1="91" x2="132" y2="91" stroke="#2563eb" stroke-width="4"/><text x="140" y="96">Revenue index</text>
+      <line x1="94" y1="112" x2="132" y2="112" stroke="#f97316" stroke-width="4"/><text x="140" y="117">CO₂ emissions index</text>
+      <text x="60" y="282">2017</text><text x="430" y="282">2023</text>
+      <text x="16" y="258">90</text><text x="12" y="78">330</text>
+      <text x="22" y="300" fill="#64748b">Sources: World Bank; OWID / Global Carbon Project</text>
+    </g>
+  </g>
+
+  <text x="40" y="865" font-family="Arial, sans-serif" font-size="15" fill="#334155">Interpretation: carbon-pricing revenue can grow while global CO₂ emissions and atmospheric CO₂ concentration continue rising. This supports the need for Cooling Credits: physically measurable heat-load reduction.</text>
+</svg>
