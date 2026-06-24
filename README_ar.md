@@ -621,6 +621,9 @@
 
 ---
 
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  بوابة بحث متعددة اللغات تربط الاستدامة، وأهداف التنمية المستدامة، والتنقل البيئي، وESG، والتكيف المناخي، وتبريد المدن، ونظام الحضارة، بأرصدة التبريد.
+
 ## المؤلف
 
 Master / inchacomusho / InchaComisho
