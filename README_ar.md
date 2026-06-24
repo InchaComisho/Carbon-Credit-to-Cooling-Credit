@@ -624,6 +624,9 @@
 - [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
   بوابة بحث متعددة اللغات تربط الاستدامة، وأهداف التنمية المستدامة، والتنقل البيئي، وESG، والتكيف المناخي، وتبريد المدن، ونظام الحضارة، بأرصدة التبريد.
 
+- [تحذير النينيو وأرصدة التبريد](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit/blob/main/README_ar.md)
+  يشرح لماذا ينبغي فهم النينيو في عصر الاحترار العالمي كإشارة تحذير من محيط محمّل بالحرارة، ويربط هذا التحذير بأرصدة التبريد والمحاسبة الحرارية.
+
 ## المؤلف
 
 Master / inchacomusho / InchaComisho
