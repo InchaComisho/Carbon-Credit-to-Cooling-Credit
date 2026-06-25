@@ -608,6 +608,9 @@
 
 ## المستودعات ذات الصلة
 
+- [الكوارث المناخية وإعادة توزيع الحرارة وأرصدة التبريد](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit/blob/main/README_ar.md)
+  يشرح الكوارث المناخية بوصفها إعادة توزيع مثقلة للحرارة وبخار الماء، ويربط الوقاية من الكوارث بالمحاسبة الحرارية وأرصدة التبريد.
+
 * [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
 * [Cooling Credit Framework Portal](https://inchacomisho.github.io/Cooling-Credit-Framework/)
 * [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)

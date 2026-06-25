@@ -603,6 +603,9 @@ If regions become cooler, humanity will be forced to recognize the value of rest
 
 ## Related Repositories
 
+- [Climate Disasters as Heat Redistribution and Cooling Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit)
+  Explains climate disasters as overloaded heat and water-vapor redistribution, and connects disaster prevention to thermal accounting and Cooling Credits.
+
 * [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
 * [Cooling Credit Framework Portal](https://inchacomisho.github.io/Cooling-Credit-Framework/)
 * [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)

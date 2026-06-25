@@ -701,3 +701,7 @@ Cooling Credit, Carbon Credit, Carbon Offsetting, Climate Change, Global Warming
 #環境金融
 #人工叡智
 
+## 関連リンク
+
+- [気候災害・熱再分配・クーリングクレジット](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit/blob/main/README_ja.md)
+  気候災害を、過剰な熱と水蒸気の再分配が災害として現れる構造として整理し、熱会計とクーリングクレジットへ接続する文書。
