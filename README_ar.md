@@ -633,6 +633,16 @@
 - [مقال ياباني على NOTE حول النينيو وأرصدة التبريد](https://note.com/inchacomusho/n/n3426a35cb2a2)
   مقال عام يربط بين النينيو، وتراكم حرارة المحيط، والمحاسبة الحرارية، وأرصدة التبريد.
 
+---
+
+## روابط ذات صلة
+
+* [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure) — نموذج سببي قائم على الأنظمة يربط الاحترار العالمي بضعف وفقدان وظائف التبريد الطبيعية للأرض.
+* [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
+* [مقال NOTE: أسباب الاحترار العالمي وبنيته السببية](https://note.com/inchacomusho/n/n5b2102ffc1c2)
+
+---
+
 ## المؤلف
 
 Master / inchacomusho / InchaComisho

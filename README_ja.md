@@ -590,6 +590,9 @@ Cooling Credit
 
 ## Related Repositories / 関連リポジトリ
 
+* [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure) — 温暖化をCO₂増加だけでなく、地球本来の自然冷却機能の弱体化・喪失と接続して整理する因果構造モデル。
+* [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
+* [NOTE記事：温暖化の原因と因果関係](https://note.com/inchacomusho/n/n5b2102ffc1c2)
 * [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
 * [Cooling Credit Framework Portal](https://inchacomisho.github.io/Cooling-Credit-Framework/)
 * [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
