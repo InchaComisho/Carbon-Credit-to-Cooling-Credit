@@ -643,6 +643,12 @@
 
 ---
 
+### البنية السببية للاحترار العالمي وأرصدة التبريد
+
+- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+
+
+
 ## المؤلف
 
 Master / inchacomusho / InchaComisho

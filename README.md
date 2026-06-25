@@ -631,6 +631,12 @@ If regions become cooler, humanity will be forced to recognize the value of rest
 - [Japanese NOTE article on El Niño and Cooling Credits](https://note.com/inchacomusho/n/n3426a35cb2a2)
   A public-facing Japanese article connecting El Niño, ocean heat accumulation, thermal accounting, and Cooling Credits.
 
+### Global Warming Causal Structure and Cooling Credit
+
+- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+
+
+
 ## Author
 
 Master / inchacomusho / InchaComisho
