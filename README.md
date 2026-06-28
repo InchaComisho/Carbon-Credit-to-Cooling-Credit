@@ -14,13 +14,20 @@
 
 ---
 
-## Related Graph Page
+## Related Cooling Credit Repositories
 
-- [CO2 and Carbon Credit Market Graphs](docs/CO2_AND_CARBON_CREDIT_MARKET_GRAPHS.md)
+This repository is part of the broader Cooling Credit knowledge system proposed by Master / inchacomusho / InchaComisho.
 
-![Carbon credit market growth compared with rising atmospheric CO2](assets/carbon_credit_vs_co2_trends.svg)
-
-![Natural carbon sinks under climate and ecosystem stress](assets/natural_sinks_under_stress.svg)
+- [Cooling-Credit](https://github.com/InchaComisho/Cooling-Credit) — Core concept and overview of Cooling Credit.
+- [Cooling-Credit-Definition](https://github.com/InchaComisho/Cooling-Credit-Definition) — Official definition, classification framework, and diagrams.
+- [Cooling-Credit-Framework](https://github.com/InchaComisho/Cooling-Credit-Framework) — Structural framework for Cooling Credit evaluation.
+- [Cooling-Credit-Implementation-Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio) — Practical implementation portfolio.
+- [Cooling-Credit-Implementation-and-Finance-Model](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model) — Implementation and finance model.
+- [Carbon-Credit-to-Cooling-Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit) — Transition model from Carbon Credit to Cooling Credit.
+- [carbon-credit-limitations-cooling-credit](https://github.com/InchaComisho/carbon-credit-limitations-cooling-credit) — Analysis of Carbon Credit limitations and the need for Cooling Credit.
+- [Sustainable-Future-Cooling-Credit-Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal) — Portal for sustainable future and Cooling Credit knowledge.
+- [El-Nino-Warning-and-Cooling-Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit) — El Niño warning and Cooling Credit perspective.
+- [Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit) — Climate disasters as heat redistribution and the role of Cooling Credit.
 
 ---
 
