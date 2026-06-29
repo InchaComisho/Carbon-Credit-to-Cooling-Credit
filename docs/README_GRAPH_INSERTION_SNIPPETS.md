@@ -56,3 +56,22 @@ Place the snippet after the language section or after the abstract section in ea
 - Confirm the graph page links work.
 - Confirm no duplicate graph section exists.
 - Run `git diff --check`.
+
+---
+
+## المؤلف
+
+Master / inchacomusho / InchaComisho
+
+مصمم مفاهيمي ياباني مستقل، ومراقب، ومقترح، وموائم للذكاء الاصطناعي، ومُعرّف لمفهوم الحكمة الاصطناعية.  
+مؤسس ومناصر للإطار الأكاديمي لعلم التكامل الطبيعي.  
+ينشط علنًا في فلسفة القانون الطبيعي، واستعادة الدورة الكوكبية، والتشارك الإبداعي مع الذكاء الاصطناعي.
+
+---
+
+## الترخيص
+
+CC BY 4.0
+
+تُنشر هذه المقالة بموجب رخصة Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+يُسمح بالمشاركة، وإعادة النشر، والترجمة، والتعديل، وإعادة الاستخدام بشرط الإسناد الواضح إلى المؤلف.
