@@ -606,21 +606,20 @@
 
 ---
 
-## المستودعات ذات الصلة
+## المستودعات ذات الصلة بأرصدة التبريد
 
-- [الكوارث المناخية وإعادة توزيع الحرارة وأرصدة التبريد](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit/blob/main/README_ar.md)
-  يشرح الكوارث المناخية بوصفها إعادة توزيع مثقلة للحرارة وبخار الماء، ويربط الوقاية من الكوارث بالمحاسبة الحرارية وأرصدة التبريد.
+هذا المستودع جزء من منظومة معرفة أرصدة التبريد التي اقترحها ماستر / inchacomusho / InchaComisho.
 
-* [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
-* [Cooling Credit Framework Portal](https://inchacomisho.github.io/Cooling-Credit-Framework/)
-* [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
-* [Center-Mist Ultrasonic Cooling Fan Concept](https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept)
-* [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science)
-* [Planetary Heat Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS)
-* [Natural Microbial OS](https://github.com/InchaComisho/Natural-Microbial-OS)
-* [Desert Regeneration and Food Production Through Organic Matter Circulation](https://github.com/InchaComisho/Desert-Regeneration-and-Food-Production-Through-Organic-Matter-Circulation)
-* [Abandoned Cedar Forests: From Liability to Regenerative Asset](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset)
-* [There Is No Waste on Earth](https://github.com/InchaComisho/There-Is-No-Waste-on-Earth)
+- [Cooling-Credit](https://github.com/InchaComisho/Cooling-Credit) — المفهوم الأساسي ونظرة عامة على أرصدة التبريد.
+- [Cooling-Credit-Definition](https://github.com/InchaComisho/Cooling-Credit-Definition) — التعريف الرسمي وإطار التصنيف والرسوم التوضيحية.
+- [Cooling-Credit-Framework](https://github.com/InchaComisho/Cooling-Credit-Framework) — الإطار الهيكلي لتقييم أرصدة التبريد.
+- [Cooling-Credit-Implementation-Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio) — محفظة التنفيذ العملي.
+- [Cooling-Credit-Implementation-and-Finance-Model](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model) — نموذج التنفيذ والتمويل.
+- [Carbon-Credit-to-Cooling-Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit) — نموذج الانتقال من أرصدة الكربون إلى أرصدة التبريد.
+- [carbon-credit-limitations-cooling-credit](https://github.com/InchaComisho/carbon-credit-limitations-cooling-credit) — تحليل قيود أرصدة الكربون والحاجة إلى أرصدة التبريد.
+- [Sustainable-Future-Cooling-Credit-Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal) — بوابة المستقبل المستدام ومنظومة معرفة أرصدة التبريد.
+- [El-Nino-Warning-and-Cooling-Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit) — تحذير النينيو ومنظور أرصدة التبريد.
+- [Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit) — الكوارث المناخية بوصفها إعادة توزيع للحرارة ودور أرصدة التبريد.
 
 ---
 
