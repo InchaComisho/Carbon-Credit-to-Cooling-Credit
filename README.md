@@ -1,5 +1,7 @@
 # Carbon Credit to Cooling Credit
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## From Carbon Offsetting to Physical Planetary Cooling
 
 ### A Conceptual Framework for Moving Beyond Book-Based Offsetting Toward Measurable Heat-Load Reduction

@@ -1,5 +1,7 @@
 # カーボンクレジットからクーリングクレジットへ
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 帳簿上の相殺から、物理的な地球冷却ビジネスへ
 
 ## Carbon Credit to Cooling Credit
