@@ -1,5 +1,7 @@
 # CO₂のフロー・ストック・カーボンプライシング・自然吸収源ストレスの図解
 
+[English Version](CO2_AND_CARBON_CREDIT_MARKET_GRAPHS.md)
+
 [← README_ja.mdへ戻る](../README_ja.md)
 
 ---

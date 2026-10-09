@@ -1,5 +1,7 @@
 # CO₂ Flow, Stock, Carbon Pricing, and Natural Sink Stress
 
+[日本語版はこちら / Japanese version](CO2_AND_CARBON_CREDIT_MARKET_GRAPHS_ja.md)
+
 [← Back to README](../README.md)
 
 ---
