@@ -1,5 +1,7 @@
 # Task: Insert CO₂ and Carbon Credit Market Graph into README Files
 
+[日本語版はこちら / Japanese version](README_GRAPH_INSERTION_TASK_ja.md)
+
 A combined SVG chart has been added:
 
 - `assets/carbon_credit_vs_co2_trends.svg`

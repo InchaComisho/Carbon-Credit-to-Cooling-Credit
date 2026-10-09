@@ -13,7 +13,7 @@
 ## Languages / 言語
 
 - [日本語 / Japanese](README_ja.md)
-- [English](README.md)
+- [English](README_ja.md)
 - [العربية / Arabic](README_ar.md)
 
 ---
